@@ -1,0 +1,522 @@
+如何优雅地记录操作日志？	https://tech.meituan.com/2021/09/16/operational-logbook.html
+新一代CTR预测服务的GPU优化实践	https://tech.meituan.com/2021/09/09/ctr-gpu-practice.html
+美团商品知识图谱的构建及应用	https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html
+美团外卖实时数仓建设实践	https://tech.meituan.com/2021/08/26/data-warehouse-in-meituan-waimai.html
+小样本学习及其在美团场景中的应用	https://tech.meituan.com/2021/08/19/low-resource-learning.html
+KDD 2021｜美团联合多高校提出多任务学习模型，已应用于联名卡获客场景	https://tech.meituan.com/2021/08/12/kdd-2021-aitm.html
+Spock单元测试框架介绍以及在美团优选的实践	https://tech.meituan.com/2021/08/06/spock-practice-in-meituan.html
+ACL 2021 | 一文详解美团技术团队7篇精选论文	https://tech.meituan.com/2021/08/05/acl-2021-meituan-07-papers.html
+美团App页面视图可测性改造实践	https://tech.meituan.com/2021/07/28/app-xraysdk.html
+美团终端消息投递服务Pike的演进之路	https://tech.meituan.com/2021/07/22/pike-2.0.html
+本地生活综合性需求图谱的构建及应用	https://tech.meituan.com/2021/07/15/construction-and-application-of-lifestyle-general-needs-net.html
+多业务建模在美团搜索排序中的实践	https://tech.meituan.com/2021/07/08/multi-business-modeling.html
+常识性概念图谱建设以及在美团场景中的应用	https://tech.meituan.com/2021/06/24/nature-language-process-nlp-knowledge-graph.html
+美团外卖广告智能算力的探索与实践	https://tech.meituan.com/2021/06/17/waimai-ai-advertisement.html
+SIGIR 2021 | 广告系统位置偏差的CTR模型优化方案	https://tech.meituan.com/2021/06/10/deep-position-wise-interaction-network-for-ctr-prediction.html
+美团民宿跨端复用框架设计与实践	https://tech.meituan.com/2021/06/10/react-native-hybrid-practice-dsl-in-meituan.html
+ACL 2021｜美团提出基于对比学习的文本表示模型，效果相比BERT-flow提升8%	https://tech.meituan.com/2021/06/03/acl-2021-consert-bert.html
+CVPR 2021 | 基于Transformer的端到端视频实例分割方法	https://tech.meituan.com/2021/06/03/cvpr-transformer.html
+2021全国科技工作者日：致敬科技工作者	https://tech.meituan.com/2021/05/30/2021-5-30.html
+外卖商品的标准化建设与应用	https://tech.meituan.com/2021/05/27/food-name-standardization.html
+大促活动前团购系统流量预算和容量评估	https://tech.meituan.com/2016/09/28/stress-test-before-promotion.html
+Java Hotspot G1 GC的一些关键技术	https://tech.meituan.com/2016/09/23/g1.html
+美团数据库运维自动化系统构建之路	https://tech.meituan.com/2016/09/18/the-construction-of-database-automation-system.html
+Android热更新方案Robust	https://tech.meituan.com/2016/09/14/android-robust.html
+美团外卖订单中心的演进	https://tech.meituan.com/2016/09/09/mt-waimai-order-evolution.html
+美团的DBProxy实践	https://tech.meituan.com/2016/09/09/dbproxy-introduction.html
+RDS平台介绍	https://tech.meituan.com/2016/09/03/rds-introduction.html
+基于 KIF 的 iOS UI 自动化测试和持续集成	https://tech.meituan.com/2016/09/02/ios-uitest-kif.html
+HDFS NameNode内存全景	https://tech.meituan.com/2016/08/26/namenode.html
+ReactiveCocoa中潜在的内存泄漏及解决方案	https://tech.meituan.com/2016/08/19/potential-memory-leak-in-reactivecocoa.html
+RestQL：现代化的 API 开发方式	https://tech.meituan.com/2016/08/12/koa-restql.html
+分布式队列编程优化篇	https://tech.meituan.com/2016/08/05/distributed-queue-based-programming-optimization.html
+分布式队列编程：模型、实战	https://tech.meituan.com/2016/07/29/distributed-queue-based-programming.html
+Node.js Stream - 实战篇	https://tech.meituan.com/2016/07/22/stream-in-action.html
+Node.js Stream - 进阶篇	https://tech.meituan.com/2016/07/15/stream-internals.html
+Node.js Stream - 基础篇	https://tech.meituan.com/2016/07/08/stream-basics.html
+消息队列设计精要	https://tech.meituan.com/2016/07/01/mq-design.html
+Java 8系列之重新认识HashMap	https://tech.meituan.com/2016/06/24/java-hashmap.html
+Cache应用中的服务过载案例研究	https://tech.meituan.com/2016/06/16/avalanche-study.html
+专访美团外卖曹振团：天下武功唯快不破	https://tech.meituan.com/2016/06/03/caozhentuan-interview-at-infoq.html
+如何优雅地记录操作日志？	https://tech.meituan.com/2021/09/16/operational-logbook.html
+新一代CTR预测服务的GPU优化实践	https://tech.meituan.com/2021/09/09/ctr-gpu-practice.html
+美团商品知识图谱的构建及应用	https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html
+美团外卖实时数仓建设实践	https://tech.meituan.com/2021/08/26/data-warehouse-in-meituan-waimai.html
+小样本学习及其在美团场景中的应用	https://tech.meituan.com/2021/08/19/low-resource-learning.html
+KDD 2021｜美团联合多高校提出多任务学习模型，已应用于联名卡获客场景	https://tech.meituan.com/2021/08/12/kdd-2021-aitm.html
+Spock单元测试框架介绍以及在美团优选的实践	https://tech.meituan.com/2021/08/06/spock-practice-in-meituan.html
+ACL 2021 | 一文详解美团技术团队7篇精选论文	https://tech.meituan.com/2021/08/05/acl-2021-meituan-07-papers.html
+美团App页面视图可测性改造实践	https://tech.meituan.com/2021/07/28/app-xraysdk.html
+美团终端消息投递服务Pike的演进之路	https://tech.meituan.com/2021/07/22/pike-2.0.html
+本地生活综合性需求图谱的构建及应用	https://tech.meituan.com/2021/07/15/construction-and-application-of-lifestyle-general-needs-net.html
+多业务建模在美团搜索排序中的实践	https://tech.meituan.com/2021/07/08/multi-business-modeling.html
+常识性概念图谱建设以及在美团场景中的应用	https://tech.meituan.com/2021/06/24/nature-language-process-nlp-knowledge-graph.html
+美团外卖广告智能算力的探索与实践	https://tech.meituan.com/2021/06/17/waimai-ai-advertisement.html
+SIGIR 2021 | 广告系统位置偏差的CTR模型优化方案	https://tech.meituan.com/2021/06/10/deep-position-wise-interaction-network-for-ctr-prediction.html
+美团民宿跨端复用框架设计与实践	https://tech.meituan.com/2021/06/10/react-native-hybrid-practice-dsl-in-meituan.html
+ACL 2021｜美团提出基于对比学习的文本表示模型，效果相比BERT-flow提升8%	https://tech.meituan.com/2021/06/03/acl-2021-consert-bert.html
+CVPR 2021 | 基于Transformer的端到端视频实例分割方法	https://tech.meituan.com/2021/06/03/cvpr-transformer.html
+2021全国科技工作者日：致敬科技工作者	https://tech.meituan.com/2021/05/30/2021-5-30.html
+外卖商品的标准化建设与应用	https://tech.meituan.com/2021/05/27/food-name-standardization.html
+外卖套餐搭配的探索和应用	https://tech.meituan.com/2021/05/27/set-meal-recommendation.html
+美团外卖美食知识图谱的迭代及应用	https://tech.meituan.com/2021/05/27/food-knowledge-graph.html
+百亿规模API网关服务Shepherd的设计与实现	https://tech.meituan.com/2021/05/20/shepherd-api-gateway.html
+算法平台在线服务体系的演进与实践	https://tech.meituan.com/2021/05/13/turing-os-online-serving.html
+GraphQL及元数据驱动架构在后端BFF中的实践	https://tech.meituan.com/2021/05/06/bff-graphql.html
+美团Serverless平台Nest的探索与实践	https://tech.meituan.com/2021/04/21/nest-serverless.html
+美团酒旅数据治理实践	https://tech.meituan.com/2021/04/15/data-governance-in-meituan-jiulv.html
+实践之后，我们来谈谈如何做好威胁建模	https://tech.meituan.com/2021/04/08/threat-modeling-security.html
+美团图数据库平台建设及业务实践	https://tech.meituan.com/2021/04/01/nebula-graph-practice-in-meituan.html
+美团弹性伸缩系统的技术演进与落地实践	https://tech.meituan.com/2021/04/01/hulk-kubernetes-docker-octo.html
+ICLR 2021 | 美团AutoML论文：鲁棒的神经网络架构搜索 DARTS-	https://tech.meituan.com/2021/03/25/iclr-2021-nas-automl-darts.html
+设计稿（UI视图）自动生成代码方案的探索	https://tech.meituan.com/2021/03/25/ui2dsl-dsl2code.html
+FlutterWeb在美团外卖的实践	https://tech.meituan.com/2021/03/18/flutterweb-in-meituanwaimai.html
+OCTO 2.0：美团基于Service Mesh的服务治理系统详解	https://tech.meituan.com/2021/03/08/octo-2.0-service-mesh.html
+美团外卖特征平台的建设与实践	https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html
+一款可以让大型iOS工程编译速度提升50%的工具	https://tech.meituan.com/2021/02/25/cocoapods-hmap-prebuilt.html
+从预编译的角度理解Swift与Objective-C及混编机制	https://tech.meituan.com/2021/02/25/swift-objective-c.html
+美团技术年货：1300+页电子书，覆盖前端、后台、数据、算法、顶会论文……	https://tech.meituan.com/2021/02/04/2021-spring-festival-present.html
+自动驾驶轨迹预测算法：NeurIPS挑战赛冠军方案	https://tech.meituan.com/2021/02/01/neurips-2020-interaction-prediction.html
+让 Flutter 在鸿蒙系统上跑起来	https://tech.meituan.com/2021/01/22/flutter-in-harmonyos.html
+基于SSD的Kafka应用层缓存架构设计与实现	https://tech.meituan.com/2021/01/14/kafka-ssd.html
+速度与压缩比如何兼得？压缩算法在构建部署中的优化	https://tech.meituan.com/2021/01/07/pack-gzip-zstd-lz4.html
+2020年美团技术团队最受欢迎的16篇技术文章	https://tech.meituan.com/2021/01/01/2020-summary.html
+技术解析 | 横纵一体的无人车控制方案	https://tech.meituan.com/2020/12/24/self-driving-control.html
+隐藏在浏览器背后的“黑手”	https://tech.meituan.com/2020/12/24/lnkr-chrome.html
+C++服务编译耗时优化原理及实践	https://tech.meituan.com/2020/12/10/apache-kylin-practice-in-meituan.html
+ICDM论文：探索跨会话信息感知的推荐模型	https://tech.meituan.com/2020/12/10/session-based-recommendation-icdm-neurec-workshop-2020.html
+CIKM 2020 | 一文详解美团6篇精选论文	https://tech.meituan.com/2020/12/03/cikm-2020-nlp.html
+复杂环境下落地Service Mesh的挑战与实践	https://tech.meituan.com/2020/12/03/service-mesh-in-meituan.html
+美团无人车引擎在仿真中的实践	https://tech.meituan.com/2020/11/27/self-driving-in-simulation-system.html
+移动端UI一致性解决方案	https://tech.meituan.com/2020/11/26/consistency-in-ui-design.html
+Apache Kylin的实践与优化	https://tech.meituan.com/2020/11/19/apache-kylin-practice-in-meituan.html
+Java中9种常见的CMS GC问题分析与解决	https://tech.meituan.com/2020/11/12/java-9-cms-gc.html
+积木Sketch插件进阶开发指南	https://tech.meituan.com/2020/11/05/native-web-pratice-in-meituan.html
+美团内部讲座｜周烜：华东师范大学的数据库系统研究	https://tech.meituan.com/2020/11/05/top-talk-database.html
+Native地图与Web融合技术的应用与实践	https://tech.meituan.com/2020/10/30/native-web-pratice-in-meituan.html
+美团内部讲座｜北航全权：一种城市空中移动性管理分布式控制框架	https://tech.meituan.com/2020/10/30/top-talk-quanquan.html
+基本功 | Java即时编译器原理解析及实践	https://tech.meituan.com/2020/10/22/java-jit-practice-in-meituan.html
+AIOps在美团的探索与实践——故障发现篇	https://tech.meituan.com/2020/10/15/mt-aiops-horae.html
+对话任务中的“语言-视觉”信息融合研究	https://tech.meituan.com/2020/10/15/acmmm-2020-answer-driven-visual-state-estimator.html
+外卖客户端容器化架构的演进	https://tech.meituan.com/2020/09/30/waimai-mobile-architecture-evolution.html
+美团内部讲座｜清华大学莫一林：信息物理系统中的安全控制算法	https://tech.meituan.com/2020/09/30/meituan-top-talk-moyilin-cps.html
+KDD Cup 2020多模态召回比赛亚军方案与搜索业务应用	https://tech.meituan.com/2020/09/27/kdd-cup-multimodalities-recall-02.html
+KDD Cup 2020多模态召回比赛季军方案与搜索业务应用	https://tech.meituan.com/2020/09/27/kdd-cup-multimodalities-recall-03.html
+Flutter包大小治理上的探索与实践	https://tech.meituan.com/2020/09/18/flutter-in-meituan.html
+工程师的基本功是什么？该如何练习？听听美团技术大咖怎么说	https://tech.meituan.com/2020/09/03/meituantech-basic-skills.html
+KDD Cup 2020 AutoGraph比赛冠军技术方案及在美团的实践	https://tech.meituan.com/2020/08/27/kdd-cup-autograph-practice.html
+KDD Cup 2020 Debiasing比赛冠军技术方案及在美团的实践	https://tech.meituan.com/2020/08/20/kdd-cup-debiasing-practice.html
+MT-BERT在文本检索任务中的实践	https://tech.meituan.com/2020/08/20/mt-bert-in-document.html
+Kubernetes如何改变美团的云基础设施？	https://tech.meituan.com/2020/08/13/openstack-to-kubernetes-in-meituan.html
+新一代垃圾回收器ZGC的探索与实践	https://tech.meituan.com/2020/08/06/new-zgc-practice-in-meituan.html
+美团搜索中NER技术的探索与实践	https://tech.meituan.com/2020/07/23/ner-in-meituan-nlp.html
+智能搜索模型预估框架Augur的建设与实践	https://tech.meituan.com/2020/07/16/augur-in-meituan-nlp.html
+BERT在美团搜索核心排序的探索和实践	https://tech.meituan.com/2020/07/09/bert-in-meituan-search.html
+美团万亿级 KV 存储架构与实践	https://tech.meituan.com/2020/07/01/kv-squirrel-cellar.html
+美团外卖Flutter动态化实践	https://tech.meituan.com/2020/06/23/meituan-flutter-flap.html
+MyBatis版本升级引发的线上告警回顾及原理分析	https://tech.meituan.com/2020/06/18/inf-bom-mybatis.html
+ICRA 2020轨迹预测竞赛冠军的方法总结	https://tech.meituan.com/2020/06/11/meituan-icra-2020.html
+美团MySQL数据库巡检系统的设计与应用	https://tech.meituan.com/2020/06/04/mysql-detection-system.html
+美团配送A/B评估体系建设实践	https://tech.meituan.com/2020/05/28/peisong-a-b-test.html
+积木Sketch Plugin：设计同学的贴心搭档	https://tech.meituan.com/2020/05/21/waimai-sketch-plugin.html
+美团无人配送CVPR2020论文CenterMask解读	https://tech.meituan.com/2020/05/21/cvpr2020-centermask.html
+复杂风控场景下，如何打造一款高效的规则引擎	https://tech.meituan.com/2020/05/14/meituan-security-zeus.html
+美团命名服务的挑战与演进	https://tech.meituan.com/2020/05/14/octo-mns-2.0.html
+青年人在美团是怎样成长的？	https://tech.meituan.com/2020/05/04/meituan-0504-young-people.html
+推荐收藏 | 美团技术团队的书单	https://tech.meituan.com/2020/04/23/read-book-2020-04-23.html
+美团OCTO万亿级数据中心计算引擎技术解析	https://tech.meituan.com/2020/04/23/octo-watt.html
+Intel PAUSE指令变化影响到MySQL的性能，该如何解决？	https://tech.meituan.com/2020/04/16/intel-pause-mysql.html
+Transformer 在美团搜索排序中的实践	https://tech.meituan.com/2020/04/16/transformer-in-meituan.html
+Apache Doris在美团外卖数仓中的应用实践	https://tech.meituan.com/2020/04/09/doris-in-meituan-waimai.html
+Java线程池实现原理及其在美团业务中的实践	https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html
+WSDM Cup 2020检索排序评测任务第一名经验总结	https://tech.meituan.com/2020/03/26/wsdm-2020-bert-lightgbm.html
+想进美团不知道选哪个技术岗位？这里有一份通关秘籍！	https://tech.meituan.com/2020/03/26/meituan-tech-corporate-recruitment.html
+设计模式在外卖营销业务中的实践	https://tech.meituan.com/2020/03/19/design-pattern-practice-in-marketing.html
+云原生之容器安全实践	https://tech.meituan.com/2020/03/12/cloud-native-security.html
+美团配送数据治理实践	https://tech.meituan.com/2020/03/12/delivery-data-governance.html
+美团技术十年：让我们感动的那些人那些事	https://tech.meituan.com/2020/03/05/meituan-10-years.html
+微前端在美团外卖的实践	https://tech.meituan.com/2020/02/27/meituan-waimai-micro-frontends-practice.html
+美团智能配送系统的运筹优化实战	https://tech.meituan.com/2020/02/20/meituan-delivery-operations-research.html
+美团外卖持续交付的前世今生	https://tech.meituan.com/2020/02/13/meituan-waimai-continuous-delivery.html
+一站式机器学习平台建设实践	https://tech.meituan.com/2020/01/23/meituan-delivery-machine-learning.html
+自然场景人脸检测技术实践	https://tech.meituan.com/2020/01/23/meituan-vicface.html
+美团点评技术年货：900+页电子书，覆盖前端、后台、大数据、算法……	https://tech.meituan.com/2020/01/17/meituan-tech-blog-2019.html
+美团开源 Logan Web：前端日志在 Web 端的实现	https://tech.meituan.com/2020/01/09/meituan-logan.html
+Bifrost微前端框架及其在美团闪购中的实践	https://tech.meituan.com/2019/12/26/meituan-bifrost.html
+React Native在美团外卖客户端的实践	https://tech.meituan.com/2019/12/19/meituan-mrn-practice.html
+美团下一代服务治理系统 OCTO 2.0 的探索与实践	https://tech.meituan.com/2019/12/12/meituan-octo.html
+从ReentrantLock的实现看AQS的原理及应用	https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html
+美团外卖前端容器化演进实践	https://tech.meituan.com/2019/11/28/meituan-front-end-containerization-evolution.html
+美团点评效果广告实验配置平台的设计与实现	https://tech.meituan.com/2019/11/28/advertising-performance-experiment-configuration-platform.html
+Jupyter在美团民宿的应用实践	https://tech.meituan.com/2019/11/21/application-practice-jupyter.html
+顶会论文：基于神经网络StarNet的行人轨迹交互预测算法	https://tech.meituan.com/2019/11/21/pedestrian-trajectory-interactive-prediction-algorithm-starnet.html
+Probe：Android线上OOM问题定位组件	https://tech.meituan.com/2019/11/14/crash-oom-probe-practice.html
+美团BERT的探索和实践	https://tech.meituan.com/2019/11/14/nlp-bert-practice.html
+Android静态代码扫描效率优化与实践	https://tech.meituan.com/2019/11/07/android-static-code-canning.html
+Java 动态调试技术原理及实践	https://tech.meituan.com/2019/11/07/java-dynamic-debugging-technology.html
+CVPR 2019轨迹预测竞赛冠军方法总结	https://tech.meituan.com/2019/10/31/trajectory-prediction-contest.html
+Android 兼容 Java 8 语法特性的原理分析	https://tech.meituan.com/2019/10/17/android-java-8.html
+OneData建设探索之路：SaaS收银运营数仓建设	https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html
+JVM CPU Profiler技术原理及源码深度解析	https://tech.meituan.com/2019/10/10/jvm-cpu-profiler.html
+配送交付时间轻量级预估实践	https://tech.meituan.com/2019/10/10/distribution-time-prediction-practice.html
+ICDAR 2019论文：自然场景文字定位技术详解	https://tech.meituan.com/2019/09/26/detailed-text-location.html
+开源React Native组件库beeshell 2.0发布	https://tech.meituan.com/2019/09/26/open-source-react-native-component-library-beeshell.html
+Litho在美团动态化方案MTFlexbox中的实践	https://tech.meituan.com/2019/09/19/litho-practice-in-dynamic-program-mtflexbox.html
+降低软件复杂性一般原则和方法	https://tech.meituan.com/2019/09/19/common-method-of-reduce-complexity.html
+美团外卖商家端视频探索之旅	https://tech.meituan.com/2019/09/12/take-out-business-video-exploration-tour.html
+美团集群调度系统HULK技术演进	https://tech.meituan.com/2019/09/12/hulk-technology-evolution.html
+字节码增强技术探索	https://tech.meituan.com/2019/09/05/java-bytecode-enhancement.html
+美团点评Kubernetes集群管理实践	https://tech.meituan.com/2019/08/22/kubernetes-cluster-management-practice.html
+MTFlexbox自动化埋点探索	https://tech.meituan.com/2019/08/15/mtflexbox-automation-buried-point-exploration.html
+XGBoost缺失值引发的问题及其深度分析	https://tech.meituan.com/2019/08/15/problems-caused-by-missing-xgboost-values-and-their-in-depth-analysis.html
+美团 iOS 工程 zsource 命令背后的那些事儿	https://tech.meituan.com/2019/08/08/the-things-behind-the-ios-project-zsource-command.html
+美团大规模微服务通信框架及治理体系OCTO核心组件开源	https://tech.meituan.com/2019/08/08/large-scale-microservice-communication-framework.html
+ESLint 在中大型团队的应用实践	https://tech.meituan.com/2019/08/01/eslint-application-practice-in-medium-and-large-teams.html
+Hadoop YARN：调度性能优化实践	https://tech.meituan.com/2019/08/01/hadoop-yarn-scheduling-performance-optimization-practice.html
+基本功 | Litho的使用及原理剖析	https://tech.meituan.com/2019/03/14/litho-use-and-principle-analysis.html
+大众点评信息流基于文本生成的创意优化实践	https://tech.meituan.com/2019/03/14/information-flow-creative-optimization-practices.html
+Leaf：美团分布式ID生成服务开源	https://tech.meituan.com/2019/03/07/open-source-project-leaf.html
+活动 Web 页面人机识别验证的探索与实践	https://tech.meituan.com/2019/03/07/humans-and-bots-apart-for-activity-web-security.html
+Java动态追踪技术探究	https://tech.meituan.com/2019/02/28/java-dynamic-trace.html
+根因分析初探：一种报警聚类算法在业务系统的落地实施	https://tech.meituan.com/2019/02/28/root-clause-analysis.html
+WSDM Cup 2019自然语言推理任务获奖解题思路	https://tech.meituan.com/2019/02/21/wsdm-cup-meituan-nlp-practice.html
+深度学习在美团配送ETA预估中的探索与实践	https://tech.meituan.com/2019/02/21/meituan-delivery-eta-estimation-in-the-practice-of-deep-learning.html
+研发团队资源成本优化实践	https://tech.meituan.com/2019/02/21/rd-team-resource-cost-optimization-practice.html
+Java魔法类：Unsafe应用解析	https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html
+全链路压测自动化实践	https://tech.meituan.com/2019/02/14/full-link-pressure-test-automation.html
+将军令：数据安全平台建设实践	https://tech.meituan.com/2019/02/14/data-security-platform-construction-practice-jiangjunling.html
+AI Challenger 2018：细粒度用户评论情感分析冠军思路总结	https://tech.meituan.com/2019/01/25/ai-challenger-2018.html
+人物志 | MIT 科技创新“远见者”：美团 NLP 负责人王仲远	https://tech.meituan.com/2019/01/25/biography-wangzhongyuan.html
+美团点评技术年货：一本覆盖各技术领域、1200+页的电子书	https://tech.meituan.com/2019/01/25/present-by-tech-team-2019.html
+React Native工程中TSLint静态检查工具的探索之路	https://tech.meituan.com/2019/01/17/exploring-the-tslint-static-checking-tool-on-the-react-native-project.html
+保障IDC安全：分布式HIDS集群架构设计	https://tech.meituan.com/2019/01/17/distributed-hids-cluster-architecture-design.html
+大众点评搜索基于知识图谱的深度学习排序实践	https://tech.meituan.com/2019/01/17/dianping-search-deeplearning.html
+人物志 | 美团技术委员会前端通道主席洪磊：爱折腾的斜杠青年	https://tech.meituan.com/2019/01/10/biography-honglei.html
+客户端单周发版下的多分支自动化管理与实践	https://tech.meituan.com/2019/01/10/traffic-git-branch-management.html
+深度学习在搜索业务中的探索与实践	https://tech.meituan.com/2019/01/10/deep-learning-in-meituan-hotel-search-engine.html
+Spring Boot引起的“堆外内存泄漏”排查及经验总结	https://tech.meituan.com/2019/01/03/spring-boot-native-memory-leak.html
+技术年货：美团技术沙龙合辑大放送——85个演讲，70+小时视频	https://tech.meituan.com/2019/01/03/jishushalong.html
+AI技术在智能海报设计中的应用	https://tech.meituan.com/2018/12/27/ai-in-banner-design.html
+iOS 覆盖率检测原理与增量代码测试覆盖率工具实现	https://tech.meituan.com/2018/12/27/ios-increment-coverage.html
+美团酒旅起源数据治理平台的建设与实践	https://tech.meituan.com/2018/12/27/onedata-origin.html
+Android组件化方案及组件消息总线modular-event实战	https://tech.meituan.com/2018/12/20/modular-event.html
+LruCache在美团DSP系统中的应用演进	https://tech.meituan.com/2018/12/20/lrucache-practice-dsp.html
+深入浅出排序学习：写给程序员的算法系统开发实践	https://tech.meituan.com/2018/12/20/head-in-l2r.html
+数据库智能运维探索与实践	https://tech.meituan.com/2018/12/13/intelligent-operation-practice-in-meituan.html
+智能支付稳定性测试实战	https://tech.meituan.com/2018/12/13/smart-payment.html
+机器学习在美团配送系统的实践：用技术还原真实世界	https://tech.meituan.com/2018/12/13/machine-learning-in-distribution-practice.html
+人物志 | 技术十年：美团第一位前端工程师潘魏增	https://tech.meituan.com/2018/12/06/biography-panweizeng.html
+美团AI全景图：吃喝玩乐背后的黑科技	https://tech.meituan.com/2018/12/06/ai-in-meituan-csdn.html
+美团DB数据同步到数据仓库的架构与实践	https://tech.meituan.com/2018/12/06/binlog-dw.html
+美团外卖iOS App冷启动治理	https://tech.meituan.com/2018/12/06/waimai-ios-optimizing-startup.html
+Hades：移动端静态分析框架	https://tech.meituan.com/2018/11/22/hades.html
+新一代数据库TiDB在美团的实践	https://tech.meituan.com/2018/11/22/mysql-pingcap-practice.html
+美团即时物流的分布式系统架构设计	https://tech.meituan.com/2018/11/22/instant-logistics-distributed-system-architecture.html
+美团餐饮娱乐知识图谱——美团大脑揭秘	https://tech.meituan.com/2018/11/22/meituan-brain-nlp-01.html
+不可不说的Java“锁”事	https://tech.meituan.com/2018/11/15/java-lock.html
+强化学习在美团“猜你喜欢”的实践	https://tech.meituan.com/2018/11/15/reinforcement-learning-in-mt-recommend-system.html
+构建时预渲染：网页首帧优化实践	https://tech.meituan.com/2018/11/15/first-contentful-paint-practice.html
+美团容器平台架构及容器技术实践	https://tech.meituan.com/2018/11/15/docker-architecture-and-evolution-practice.html
+Category 特性在 iOS 组件化中的应用与管控	https://tech.meituan.com/2018/11/08/ios-category-module-communicate.html
+人物志 | 美团首席科学家夏华夏：不断突破边界的程序人生	https://tech.meituan.com/2018/11/08/biography-xiahuaxia.html
+浅谈大型互联网企业入侵检测及防护策略	https://tech.meituan.com/2018/11/08/intrusion-detection-security-meituan.html
+CAT 3.0 开源发布，支持多语言客户端及多项性能提升	https://tech.meituan.com/2018/11/01/cat-pr.html
+【基本功】深入剖析Swift性能优化	https://tech.meituan.com/2018/11/01/swift-compile-performance-optimization.html
+深度剖析开源分布式监控CAT	https://tech.meituan.com/2018/11/01/cat-in-depth-java-application-monitoring.html
+美团大脑：知识图谱的建模方法及其应用	https://tech.meituan.com/2018/11/01/meituan-ai-nlp.html
+iOS系统中导航栏的转场解决方案与最佳实践	https://tech.meituan.com/2018/10/25/navigation-transition-solution-and-best-practice-in-meituan.html
+美团深度学习系统的工程实践	https://tech.meituan.com/2018/10/25/dl-system-in-nlu-and-speech.html
+Netty堆外内存泄露排查盛宴	https://tech.meituan.com/2018/10/18/netty-direct-memory-screening.html
+美团基于 Flink 的实时数仓建设实践	https://tech.meituan.com/2018/10/18/meishi-data-flink.html
+Logan：美团开源移动端基础日志库	https://tech.meituan.com/2018/10/11/logan-open-source.html
+前端安全系列（二）：如何防止CSRF攻击？	https://tech.meituan.com/2018/10/11/fe-security-csrf.html
+基于TensorFlow Serving的深度学习在线预估	https://tech.meituan.com/2018/10/11/tfserving-improve.html
+APPKIT打造稳定、灵活、高效的运营配置平台	https://tech.meituan.com/2018/09/27/appkit.html
+beeshell —— 开源的 React Native 组件库	https://tech.meituan.com/2018/09/27/waimai-beeshell-popularize.html
+全链路压测平台（Quake）在美团中的实践	https://tech.meituan.com/2018/09/27/quake-introduction.html
+前端安全系列（一）：如何防止XSS攻击？	https://tech.meituan.com/2018/09/27/fe-security.html
+美团外卖Android平台化的复用实践	https://tech.meituan.com/2018/09/27/waimai-android-multi-app-reuse.html
+ARKit：增强现实技术在美团到餐业务的实践	https://tech.meituan.com/2018/09/13/def-ar.html
+美团扫码付小程序的优化实践	https://tech.meituan.com/2018/09/13/scan-to-pay-mini-program.html
+镣铐之舞：美团安全工程师Black Hat USA演讲	https://tech.meituan.com/2018/09/13/meituan-ju-zhu-topic-in-black-hat-usa-2018.html
+Oceanus：美团HTTP流量定制化路由的实践	https://tech.meituan.com/2018/09/06/oceanus-custom-traffic-routing.html
+用微前端的方式搭建类单页应用	https://tech.meituan.com/2018/09/06/fe-tiny-spa.html
+WMRouter：美团外卖Android开源路由框架	https://tech.meituan.com/2018/08/23/meituan-waimai-android-open-source-routing-framework.html
+深入理解JSCore	https://tech.meituan.com/2018/08/23/deep-understanding-of-jscore.html
+写给工程师的十条精进原则	https://tech.meituan.com/2018/08/16/10-principles-for-engineers.html
+美团在O2O场景下的广告营销	https://tech.meituan.com/2018/08/16/meituan-o2o-advertising.html
+Flutter原理与实践	https://tech.meituan.com/2018/08/09/waimai-flutter-practice.html
+美团扫码付的前端可用性保障实践	https://tech.meituan.com/2018/08/09/qrcode-web-availability-guarantee.html
+Jenkins的Pipeline脚本在美团餐饮SaaS中的实践	https://tech.meituan.com/2018/08/02/erp-cd-jenkins-pipeline.html
+美团 R 语言数据运营实战	https://tech.meituan.com/2018/08/02/mt-r-practice.html
+美团针对Redis Rehash机制的探索和实践	https://tech.meituan.com/2018/07/27/redis-rehash-practice-optimization.html
+Android消息总线的演进之路：用LiveDataBus替代RxBus、EventBus	https://tech.meituan.com/2018/07/26/android-livedatabus.html
+美团服务体验平台对接业务数据的最佳实践-海盗中间件	https://tech.meituan.com/2018/07/26/sep-service-arrange.html
+美团配送系统架构演进实践	https://tech.meituan.com/2018/07/26/peisong-sys-arch-evolution.html
+美团客户端响应式框架 EasyReact 开源啦	https://tech.meituan.com/2018/07/19/react-programming-framework-easyreact-opensource.html
+美团点评云真机平台实践	https://tech.meituan.com/2018/07/19/cloud-phone.html
+Android自动化页面测速在美团的实践	https://tech.meituan.com/2018/07/12/autospeed.html
+MCI：移动持续集成在大众点评的实践	https://tech.meituan.com/2018/07/12/mci.html
+如何基于深度学习实现图像的智能审核？	https://tech.meituan.com/2018/07/12/deep-learning-image-recognition.html
+Kotlin代码检查在美团的探索与实践	https://tech.meituan.com/2018/07/05/kotlin-code-inspect.html
+UAS-点评侧用户行为检索系统	https://tech.meituan.com/2018/07/05/dp-user-action-system.html
+前端遇上Go: 静态资源增量更新的新实践	https://tech.meituan.com/2018/07/05/fe-and-golang.html
+深度学习在OCR中的应用	https://tech.meituan.com/2018/06/29/deep-learning-ocr.html
+美团外卖iOS多端复用的推动、支撑与思考	https://tech.meituan.com/2018/06/29/ios-multiterminal-reuse.html
+Picasso 开启大前端的未来	https://tech.meituan.com/2018/06/21/picasso-the-future.html
+深度学习在文本领域的应用	https://tech.meituan.com/2018/06/21/deep-learning-doc.html
+WWDC案例解读：大众点评相机直接扫描支付是怎么实现的	https://tech.meituan.com/2018/06/14/wwdc-ap.html
+美团外卖Android Crash治理之路	https://tech.meituan.com/2018/06/14/waimai-android-crash.html
+深度学习在美团搜索广告排序的应用实践	https://tech.meituan.com/2018/06/07/searchads-dnn.html
+大众点评账号业务高可用进阶之路	https://tech.meituan.com/2018/05/31/dp-account-high-avaliable-road.html
+美团外卖客户端高可用建设体系	https://tech.meituan.com/2018/05/31/waimai-client-high-availability.html
+互联网企业数据安全体系建设	https://tech.meituan.com/2018/05/24/data-security-system-construction.html
+实时数据产品实践——美团大交通战场沙盘	https://tech.meituan.com/2018/05/24/traffic-realtime-data-product-practice.html
+SQL解析在美团的应用	https://tech.meituan.com/2018/05/20/sql-parser-used-in-mtdp.html
+互联网公司数据安全保护新探索	https://tech.meituan.com/2018/05/20/data-security-protection-new-exploration.html
+美团数据平台Kerberos优化实战	https://tech.meituan.com/2018/05/20/kerberos-big-data-platform.html
+美团广告实时索引的设计与实现	https://tech.meituan.com/2018/05/11/adp-rtidx-ls.html
+质量运营在智能支付业务测试中的初步实践	https://tech.meituan.com/2018/05/11/quality-operation-in-zcm.html
+“小众”之美——Ruby在QA自动化中的应用	https://tech.meituan.com/2018/04/27/ruby-autotest.html
+插件化、热补丁中绕不开的Proguard的坑	https://tech.meituan.com/2018/04/27/mt-proguard.html
+美团点评智能支付核心交易系统的可用性实践	https://tech.meituan.com/2018/04/19/trade-high-availability-in-action.html
+美团酒旅实时数据规则引擎应用实践	https://tech.meituan.com/2018/04/19/hb-rt-operation.html
+工作中如何做好技术积累	https://tech.meituan.com/2018/04/16/study-vs-work.html
+美团外卖Android Lint代码检查实践	https://tech.meituan.com/2018/04/13/waimai-android-lint.html
+使用TensorFlow训练WDL模型性能问题定位与调优	https://tech.meituan.com/2018/04/08/tensorflow-performance-bottleneck-analysis-on-hadoop.html
+Toast与Snackbar的那点事	https://tech.meituan.com/2018/03/29/toast-snackbar-replace.html
+美团“猜你喜欢”深度学习排序模型实践	https://tech.meituan.com/2018/03/29/recommend-dnn.html
+美团外卖骑手背后的AI技术	https://tech.meituan.com/2018/03/29/herenqing-ai-con.html
+DataMan-美团旅行数据质量监管平台实践	https://tech.meituan.com/2018/03/21/mtdp-dataman.html
+美团配送资金安全治理之对账体系建设	https://tech.meituan.com/2018/03/21/balance-accounts.html
+2018开春大礼：750页电子书 + 33场技术沙龙资料 + 17场线上课程分享	https://tech.meituan.com/2018/03/20/2018summary.html
+每天数百亿用户行为数据，美团点评怎么实现秒级转化分析？	https://tech.meituan.com/2018/03/20/user-funnel-analysis-design-build.html
+Redis 高负载下的中断优化	https://tech.meituan.com/2018/03/16/redis-high-concurrency-optimization.html
+美团外卖Android平台化架构演进实践	https://tech.meituan.com/2018/03/16/meituan-food-delivery-android-architecture-evolution.html
+美团旅行销售绩效系统研发实践	https://tech.meituan.com/2018/03/16/performance-management-system-sales-staff.html
+美团金融平台Web前端技术体系	https://tech.meituan.com/2018/03/16/front-end-web-architecture.html
+大众点评App的短视频耗电量优化实战	https://tech.meituan.com/2018/03/11/dianping-shortvideo-battery-testcase.html
+用Vue.js开发微信小程序：开源框架mpvue解析	https://tech.meituan.com/2018/03/11/mt-mpvue-development-framework.html
+人物志 | 美团女技术总监任登君：不要给自己的人生设限	https://tech.meituan.com/2018/03/08/biography-rendengjun.html
+Android动态日志系统Holmes	https://tech.meituan.com/2018/02/28/android-holmes.html
+美团点评运营数据产品化应用与实践	https://tech.meituan.com/2018/02/11/mtdp-travel-yydp-present.html
+美团移动端基础日志库——Logan	https://tech.meituan.com/2018/02/11/logan.html
+Android Hook技术防范漫谈	https://tech.meituan.com/2018/02/02/android-anti-hooking.html
+流量运营数据产品最佳实践——美团旅行流量罗盘	https://tech.meituan.com/2018/02/02/traffic-data-product.html
+深度学习及AR在移动端打车场景下的应用	https://tech.meituan.com/2018/02/02/cnn-ar-mobile-car-finding.html
+初探下一代网络隔离与访问控制	https://tech.meituan.com/2018/01/26/network-isolation-access-control.html
+美团点评基于Storm的实时数据处理实践	https://tech.meituan.com/2018/01/26/realtime-data-measure.html
+境外业务性能优化实践	https://tech.meituan.com/2018/01/19/overseas-business-performance-optimization-practice.html
+聊聊MyBatis缓存机制	https://tech.meituan.com/2018/01/19/mybatis-cache.html
+卫星系统——酒店后端全链路日志收集工具介绍	https://tech.meituan.com/2018/01/15/satellite-system.html
+高性能平台设计—美团旅行结算平台实践	https://tech.meituan.com/2018/01/15/high-performance-platform-design.html
+Lego-美团接口自动化测试实践	https://tech.meituan.com/2018/01/09/lego-api-test.html
+MSON，让JSON序列化更快	https://tech.meituan.com/2018/01/09/mson.html
+从实际案例聊聊Java应用的GC优化	https://tech.meituan.com/2017/12/29/jvm-optimize.html
+智能投放系统之场景分析最佳实践	https://tech.meituan.com/2017/12/29/godeye-scene-search.html
+Shield——开源的移动端页面模块化开发框架	https://tech.meituan.com/2017/12/28/shield-opensource.html
+美团金融扫码付静态资源加载优化实践	https://tech.meituan.com/2017/12/23/qrcodepayment-static-optimize.html
+领域驱动设计在互联网业务开发中的实践	https://tech.meituan.com/2017/12/22/ddd-in-practice.html
+智能分析最佳实践——指标逻辑树	https://tech.meituan.com/2017/12/04/logictree.html
+美团点评联盟广告场景化定向排序机制	https://tech.meituan.com/2017/12/04/targeting-agentscore.html
+即时配送的ETA问题之亿级样本特征构造实践	https://tech.meituan.com/2017/11/24/gbdt.html
+MyFlash——美团点评的开源MySQL闪回工具	https://tech.meituan.com/2017/11/17/mysql-flashback.html
+流计算框架 Flink 与 Storm 的性能对比	https://tech.meituan.com/2017/11/17/flink-benchmark.html
+美团外卖自动化业务运维系统建设	https://tech.meituan.com/2017/11/14/digger-share.html
+大圣魔方——美团点评酒旅BI报表工具平台开发实践	https://tech.meituan.com/2017/11/03/dsmf.html
+美团点评境外度假团队前端项目开发实践总结	https://tech.meituan.com/2017/11/01/fe-overseas-practice.html
+互联网企业安全之端口监控	https://tech.meituan.com/2017/10/27/security-port-monitor.html
+支付通道自动化管理的实践之路	https://tech.meituan.com/2017/10/27/pay-paygw-automation-system.html
+函数式编程在Redux/React中的应用	https://tech.meituan.com/2017/10/12/functional-programming-in-redux.html
+美团App 插件化实践	https://tech.meituan.com/2017/10/12/android-hydra.html
+即时配送的订单分配策略：从建模和优化	https://tech.meituan.com/2017/10/11/o2o-intelligent-distribution.html
+Spring Data REST 远程代码执行漏洞（CVE-2017-8046）分析与复现	https://tech.meituan.com/2017/09/29/spring-data-rest-cve.html
+iPhone X 刘海打理指北	https://tech.meituan.com/2017/09/29/iphonex.html
+人工智能在线特征系统中的生产调度	https://tech.meituan.com/2017/09/22/online-feature-system02.html
+前端感官性能的衡量和优化实践	https://tech.meituan.com/2017/09/22/optimization-of-front-end-sensory-properties.html
+Android Binder漏洞挖掘技术与案例分享	https://tech.meituan.com/2017/09/14/android-binde-kcon.html
+人物志 | KDD Cup 2017双料冠军燕鹏	https://tech.meituan.com/2017/09/07/biography-yanpeng.html
+监控平台前端SDK开发实践	https://tech.meituan.com/2017/09/07/hunt-sdk-practice.html
+美团数据平台融合实践	https://tech.meituan.com/2017/08/25/dataplat-coalesce.html
+Android漏洞扫描工具Code Arbiter	https://tech.meituan.com/2017/08/17/android-code-arbiter.html
+前端可用性保障实践	https://tech.meituan.com/2017/08/10/checkout-counter-front-end.html
+云端的SRE发展与实践	https://tech.meituan.com/2017/08/03/meituanyun-sre.html
+深度学习在美团推荐平台排序中的运用	https://tech.meituan.com/2017/07/28/dl.html
+Android远程调试的探索与实现	https://tech.meituan.com/2017/07/20/android-remote-debug.html
+Redux从设计到源码	https://tech.meituan.com/2017/07/14/redux-design-code.html
+sysbench在美团点评中的应用	https://tech.meituan.com/2017/07/14/sysbench-meituan.html
+LsLoader——通用移动端Web App离线化方案	https://tech.meituan.com/2017/07/06/lsloader.html
+人工智能在线特征系统中的数据存取技术	https://tech.meituan.com/2017/07/06/online-feature-system.html
+孵化业务快速落地与优化	https://tech.meituan.com/2017/06/29/fuhua-haiwai.html
+美团数据库高可用架构的演进与设想	https://tech.meituan.com/2017/06/29/database-availability-architecture.html
+客户端自动化测试研究	https://tech.meituan.com/2017/06/23/mobile-app-automation.html
+美团点评酒店后台故障演练系统	https://tech.meituan.com/2017/06/23/thrifycopy-and-faultdrill-system.html
+Android增量代码测试覆盖率工具	https://tech.meituan.com/2017/06/16/android-jacoco-practace.html
+美团点评旅游搜索召回策略的演进	https://tech.meituan.com/2017/06/16/travel-search-strategy.html
+WebView性能、体验分析与优化	https://tech.meituan.com/2017/06/09/webviewperf.html
+从0到1：构建强大且易用的规则引擎	https://tech.meituan.com/2017/06/09/maze-framework.html
+Hyperloop，让发布简洁高效	https://tech.meituan.com/2017/05/26/ios-hyperloop.html
+美团点评酒旅数据仓库建设实践	https://tech.meituan.com/2017/05/26/hotel-dw-layer-topic.html
+磁盘I/O那些事	https://tech.meituan.com/2017/05/19/about-desk-io.html
+纠删码存储系统中的投机性部分写技术	https://tech.meituan.com/2017/05/19/speculative-partial-writes-erasure-coded-systems.html
+美团点评容器平台HULK的调度系统	https://tech.meituan.com/2017/05/12/hulk-scheduler-introduction.html
+美团点评酒旅前端的技术体系	https://tech.meituan.com/2017/05/12/hotel-fe-tech-system.html
+机器学习中模型优化不得不思考的几个问题	https://tech.meituan.com/2017/05/05/machine-learning-model-optimization.html
+美团DSP广告策略实践	https://tech.meituan.com/2017/05/05/mt-dsp.html
+Vuex框架原理与源码分析	https://tech.meituan.com/2017/04/27/vuex-code-analysis.html
+基于rsync的文件增量同步方案	https://tech.meituan.com/2017/04/27/incre-sync-use-rsync.html
+Leaf——美团点评分布式ID生成系统	https://tech.meituan.com/2017/04/21/mt-leaf.html
+外卖订单量预测异常报警模型实践	https://tech.meituan.com/2017/04/21/order-holtwinter.html
+Android OOM案例分析	https://tech.meituan.com/2017/04/14/oom-analysis.html
+HDFS Federation在美团点评的应用与改进	https://tech.meituan.com/2017/04/14/hdfs-federation.html
+Android App包瘦身优化实践	https://tech.meituan.com/2017/04/07/android-shrink-overall-solution.html
+从Google白皮书看企业安全最佳实践	https://tech.meituan.com/2017/04/07/google-security-ayazero.html
+前端渲染引擎doT.js解析	https://tech.meituan.com/2017/03/24/dot.html
+旅游推荐系统的演进	https://tech.meituan.com/2017/03/24/travel-recsys.html
+Android热更新方案Robust开源，新增自动化补丁工具	https://tech.meituan.com/2017/03/17/android-autopatch.html
+HDFS NameNode重启优化	https://tech.meituan.com/2017/03/17/namenode-restart-optimization.html
+缓存那些事	https://tech.meituan.com/2017/03/17/cache-about.html
+美团点评移动网络优化实践	https://tech.meituan.com/2017/03/17/shark-sdk.html
+Android自定义Lint实践2——改进原生Detector	https://tech.meituan.com/2017/03/09/android-custom-lint2.html
+美团外卖前端可视化界面组装平台 —— 乐高	https://tech.meituan.com/2017/03/09/waimai-lego.html
+美团点评SQL优化工具SQLAdvisor开源	https://tech.meituan.com/2017/03/09/sqladvisor-pr.html
+业务赋能利器之外卖特征档案	https://tech.meituan.com/2017/03/02/waimai-data-feature-service.html
+美团点评前端无痕埋点实践	https://tech.meituan.com/2017/03/02/mt-mobile-analytics-practice.html
+Mt-Falcon——Open-Falcon在美团点评的应用与实践	https://tech.meituan.com/2017/02/24/mt-falcon-monitoring-system.html
+布局编码的未来	https://tech.meituan.com/2017/02/24/the-future-of-layout.html
+外卖O2O的用户画像实践	https://tech.meituan.com/2017/02/17/waimai-ups.html
+日志级别动态调整——小工具解决大问题	https://tech.meituan.com/2017/02/17/change-log-level.html
+深度学习在美团的应用	https://tech.meituan.com/2017/02/10/deeplearning-application.html
+2016，你最不应该错过的热门技术文章	https://tech.meituan.com/2017/01/23/all-the-papers-2016.html
+美团点评Docker容器管理平台	https://tech.meituan.com/2017/01/23/mt-docker-practice.html
+Android硬件加速原理与实现简介	https://tech.meituan.com/2017/01/19/hardware-accelerate.html
+聊聊clean code	https://tech.meituan.com/2017/01/19/clean-code.html
+新一代开源Android渠道包生成工具Walle	https://tech.meituan.com/2017/01/13/android-apk-v2-signature-scheme.html
+美团点评业务风控系统构建经验	https://tech.meituan.com/2017/01/13/risk-control-system-experience-sharing.html
+MGW——美团点评高性能四层负载均衡	https://tech.meituan.com/2017/01/05/mgw.html
+前端工程化开发方案app-proto	https://tech.meituan.com/2017/01/05/tech-salon-13-app-proto.html
+美团数据库中间件DBProxy开源	https://tech.meituan.com/2017/01/05/dbproxy-pr.html
+美团团购订单系统优化记	https://tech.meituan.com/2016/12/27/meituan-tuangou-order.html
+美团酒店直连产品数据一致性演进	https://tech.meituan.com/2016/12/26/data-consistency.html
+MTDDL——美团点评分布式数据访问层中间件	https://tech.meituan.com/2016/12/19/mtddl.html
+移动端性能监控方案Hertz	https://tech.meituan.com/2016/12/19/hertz.html
+HDFS NameNode内存详解	https://tech.meituan.com/2016/12/09/namenode-memory-detail.html
+外卖排序系统特征生产框架	https://tech.meituan.com/2016/12/09/feature-pipeline.html
+常见性能优化策略的总结	https://tech.meituan.com/2016/12/02/performance-tunning.html
+红黑树深入剖析及Java实现	https://tech.meituan.com/2016/12/02/redblack-tree.html
+CRM系统新思维	https://tech.meituan.com/2016/11/25/new-concept-crm.html
+基于 Appium 的 Android UI 自动化测试	https://tech.meituan.com/2016/11/24/appium-mock-test.html
+大众点评订单系统分库分表实践	https://tech.meituan.com/2016/11/18/dianping-order-db-sharding.html
+高性能队列——Disruptor	https://tech.meituan.com/2016/11/18/disruptor.html
+如何构建Android MVVM 应用框架	https://tech.meituan.com/2016/11/11/android-mvvm.html
+服务容错模式	https://tech.meituan.com/2016/11/11/service-fault-tolerant-pattern.html
+Java NIO浅析	https://tech.meituan.com/2016/11/04/nio.html
+Spark Streaming + Elasticsearch构建App异常监控平台	https://tech.meituan.com/2016/11/04/spark-streaming-es.html
+Storm 的可靠性保证测试	https://tech.meituan.com/2016/10/21/test-of-storms-reliability.html
+移动App兼容性测试工具Spider	https://tech.meituan.com/2016/10/21/spider.html
+ReactiveCocoa核心元素与信号流	https://tech.meituan.com/2016/10/14/reactive-cocoa-signal-flow.html
+分布式会话跟踪系统架构设计与实践	https://tech.meituan.com/2016/10/14/mt-mtrace.html
+Spring MVC注解故障追踪记	https://tech.meituan.com/2016/09/30/mt-trip-springmvc-service-annotation-problem-research.html
+分布式系统互斥性与幂等性问题的分析与解决	https://tech.meituan.com/2016/09/29/distributed-system-mutually-exclusive-idempotence-cerberus-gtis.html
+大促活动前团购系统流量预算和容量评估	https://tech.meituan.com/2016/09/28/stress-test-before-promotion.html
+Java Hotspot G1 GC的一些关键技术	https://tech.meituan.com/2016/09/23/g1.html
+美团数据库运维自动化系统构建之路	https://tech.meituan.com/2016/09/18/the-construction-of-database-automation-system.html
+Android热更新方案Robust	https://tech.meituan.com/2016/09/14/android-robust.html
+美团外卖订单中心的演进	https://tech.meituan.com/2016/09/09/mt-waimai-order-evolution.html
+美团的DBProxy实践	https://tech.meituan.com/2016/09/09/dbproxy-introduction.html
+RDS平台介绍	https://tech.meituan.com/2016/09/03/rds-introduction.html
+基于 KIF 的 iOS UI 自动化测试和持续集成	https://tech.meituan.com/2016/09/02/ios-uitest-kif.html
+HDFS NameNode内存全景	https://tech.meituan.com/2016/08/26/namenode.html
+ReactiveCocoa中潜在的内存泄漏及解决方案	https://tech.meituan.com/2016/08/19/potential-memory-leak-in-reactivecocoa.html
+RestQL：现代化的 API 开发方式	https://tech.meituan.com/2016/08/12/koa-restql.html
+分布式队列编程优化篇	https://tech.meituan.com/2016/08/05/distributed-queue-based-programming-optimization.html
+分布式队列编程：模型、实战	https://tech.meituan.com/2016/07/29/distributed-queue-based-programming.html
+Node.js Stream - 实战篇	https://tech.meituan.com/2016/07/22/stream-in-action.html
+Node.js Stream - 进阶篇	https://tech.meituan.com/2016/07/15/stream-internals.html
+Node.js Stream - 基础篇	https://tech.meituan.com/2016/07/08/stream-basics.html
+消息队列设计精要	https://tech.meituan.com/2016/07/01/mq-design.html
+Java 8系列之重新认识HashMap	https://tech.meituan.com/2016/06/24/java-hashmap.html
+Cache应用中的服务过载案例研究	https://tech.meituan.com/2016/06/16/avalanche-study.html
+专访美团外卖曹振团：天下武功唯快不破	https://tech.meituan.com/2016/06/03/caozhentuan-interview-at-infoq.html
+大众点评支付渠道网关系统的实践之路	https://tech.meituan.com/2016/05/20/the-practice-of-dianping-channel-gateway.html
+Spark性能优化指南——高级篇	https://tech.meituan.com/2016/05/12/spark-tuning-pro.html
+Spark性能优化指南——基础篇	https://tech.meituan.com/2016/04/29/spark-tuning-basic.html
+Online Learning算法理论与实践	https://tech.meituan.com/2016/04/21/online-learning.html
+数据驱动精准化营销在大众点评的实践	https://tech.meituan.com/2016/04/13/dp-growth-hacker.html
+Spark在美团的实践	https://tech.meituan.com/2016/03/31/spark-in-meituan.html
+使用模板快速编写测试用例	https://tech.meituan.com/2016/03/22/testcase-templete.html
+Android自定义Lint实践	https://tech.meituan.com/2016/03/21/android-custom-lint.html
+分布式块存储系统Ursa的设计与实现	https://tech.meituan.com/2016/03/11/block-store.html
+深入FFM原理与实践	https://tech.meituan.com/2016/03/03/deep-understanding-of-ffm-principles-and-practices.html
+高可用性系统在大众点评的实践与经验	https://tech.meituan.com/2016/02/04/high-availability-systems-dianping.html
+从0到1构建美团压测工具	https://tech.meituan.com/2016/01/08/loading-test.html
+Android单元测试研究与实践	https://tech.meituan.com/2015/12/24/android-unit-test.html
+性能优化模式	https://tech.meituan.com/2015/12/10/performance-tuning-pattern.html
+美团O2O排序解决方案——线下篇	https://tech.meituan.com/2015/12/07/rerank-solution-offline.html
+美团O2O排序解决方案——线上篇	https://tech.meituan.com/2015/11/16/meituan-search-rank.html
+细说ReactiveCocoa的冷信号与热信号（三）：怎么处理冷信号与热信号	https://tech.meituan.com/2015/11/03/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-3.html
+使用 npm shrinkwrap 来管理项目依赖	https://tech.meituan.com/2015/10/23/npm-shrinkwrap.html
+Mock Server实践	https://tech.meituan.com/2015/10/19/mock-server-in-action.html
+美团Android资源混淆保护实践	https://tech.meituan.com/2015/09/30/mt-android-resource-obfuscation.html
+细说ReactiveCocoa的冷信号与热信号（二）：为什么要区分冷热信号	https://tech.meituan.com/2015/09/28/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-2.html
+细说ReactiveCocoa的冷信号与热信号（一）	https://tech.meituan.com/2015/09/08/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-1.html
+深入理解 Objective-C：方法缓存	https://tech.meituan.com/2015/08/12/deep-understanding-object-c-of-method-caching.html
+前端组件化开发实践	https://tech.meituan.com/2015/07/10/frontend-component-practice.html
+RACSignal的Subscription深入分析	https://tech.meituan.com/2015/06/30/rac-signal-subscription.html
+美团酒店Node全栈开发实践	https://tech.meituan.com/2015/06/26/node-fullstack-development-practice.html
+美团Android DEX自动拆包及动态加载简介	https://tech.meituan.com/2015/06/15/mt-android-auto-split-dex.html
+Logistic Regression 模型简介	https://tech.meituan.com/2015/05/08/intro-to-logistic-regression.html
+Linux资源管理之cgroups简介	https://tech.meituan.com/2015/03/31/cgroups.html
+Docker系列之二：基于容器的自动构建	https://tech.meituan.com/2015/03/10/auto-build.html
+深入理解Objective-C：Category	https://tech.meituan.com/2015/03/03/diveintocategory.html
+序列化和反序列化	https://tech.meituan.com/2015/02/26/serialization-vs-deserialization.html
+机器学习中的数据清洗与特征处理综述	https://tech.meituan.com/2015/02/10/machinelearning-data-feature-process.html
+实例详解机器学习如何解决问题	https://tech.meituan.com/2015/02/05/mt-mlinaction-how-to-ml.html
+Docker系列之一：入门介绍	https://tech.meituan.com/2015/01/27/docker-introduction.html
+美团推荐算法实践	https://tech.meituan.com/2015/01/22/mt-recommend-practice.html
+高级语言的编译：链接及装载过程介绍	https://tech.meituan.com/2015/01/22/linker.html
+Kafka文件存储机制那些事	https://tech.meituan.com/2015/01/13/kafka-fs-design-theory.html
+美团 P2P 图书馆实践：5天时间1845册图书共享入库	https://tech.meituan.com/2015/01/08/mt-library-introduce.html
+基于机器学习方法的POI品类推荐算法	https://tech.meituan.com/2014/12/18/poi-category-recommendation-algorithm-based-on-machine-learning.html
+美团性能分析框架和性能监控平台	https://tech.meituan.com/2014/10/29/performance-framework-and-platform.html
+抽象语法树在 JavaScript 中的应用	https://tech.meituan.com/2014/10/08/the-practice-of-abstract-syntax-trees-in-javascript.html
+Java内存访问重排序的研究	https://tech.meituan.com/2014/09/23/java-memory-reordering.html
+OpenTSDB 造成 Hbase 整点压力过大问题的排查和解决	https://tech.meituan.com/2014/09/16/opentsdb-hbase-compaction-problem.html
+地理空间距离计算优化	https://tech.meituan.com/2014/09/05/lucene-distance.html
+Solr空间搜索原理分析与实践	https://tech.meituan.com/2014/09/02/solr-spatial-search.html
+美团Android自动化之旅—适配渠道包	https://tech.meituan.com/2014/09/01/mt-apk-adaptation.html
+Quartz应用与集群原理分析	https://tech.meituan.com/2014/08/31/mt-crm-quartz.html
+Innodb中的事务隔离级别和锁的关系	https://tech.meituan.com/2014/08/20/innodb-lock.html
+灵活强大的构建系统Gradle	https://tech.meituan.com/2014/08/18/gradle-practice.html
+MySQL索引原理及慢查询优化	https://tech.meituan.com/2014/06/30/mysql-index.html
+Presto实现原理和美团的使用实践	https://tech.meituan.com/2014/06/16/presto.html
+美团Android自动化之旅—生成渠道包	https://tech.meituan.com/2014/06/13/mt-apk-packaging.html
+5whys分析法在美团工程师中的实践	https://tech.meituan.com/2014/06/12/the-practice-of-five-whys-analysis-method-in-meituan-engineer.html
+AC算法在美团上单系统的应用	https://tech.meituan.com/2014/06/09/ac-algorithm-in-meituan-order-system-practice.html
+Solr Facet技术的应用与研究	https://tech.meituan.com/2014/06/09/solr-facet.html
+剖析 Promise 之基础篇	https://tech.meituan.com/2014/06/05/promise-insight.html
+block在美团iOS的实践	https://tech.meituan.com/2014/05/17/block-in-meituan-ios-practice.html
+如何把Android手机变成一个WIFI下载热点? — 报文转发及DNS报文拦截	https://tech.meituan.com/2014/05/17/packet-forwarding.html
+Emma使用与分析	https://tech.meituan.com/2014/04/30/emma-uses-and-analyzes.html
+基于Wi-Fi的室内定位在美团总部的实践和应用（上）	https://tech.meituan.com/2014/04/21/mt-wifi-locate-practice-part1.html
+美团数据仓库-数据脱敏	https://tech.meituan.com/2014/04/08/data-desensitization.html
+改进合作 Git 工作流：自动提取、合并提交	https://tech.meituan.com/2014/03/28/improving-git-flow-squashing-commits.html
+Hadoop安全实践	https://tech.meituan.com/2014/03/24/hadoop-security-practice.html
+COS系统的前端演变和发展	https://tech.meituan.com/2014/03/19/mt-fecos-process.html
+iBeacon 初探	https://tech.meituan.com/2014/03/14/ibeacaon-first-glance.html
+深入解析String#intern	https://tech.meituan.com/2014/03/06/in-depth-understanding-string-intern.html
+美团性能优化之路——性能指标体系	https://tech.meituan.com/2014/03/03/performance-metric.html
+CentOS6上Hadoop集群中服务器cpu sys态异常的定位与解决	https://tech.meituan.com/2014/03/02/solve-centos6-hadoop-cluster-server-cpu-sys-abnormal-state-problem.html
+搜索引擎关键字智能提示的一种实现	https://tech.meituan.com/2014/02/17/pinyin-suggest.html
+YUI经验谈 - 自定义事件默认行为	https://tech.meituan.com/2014/02/14/yui3-event-default-action.html
+Hive SQL的编译过程	https://tech.meituan.com/2014/02/12/hive-sql-to-mapreduce.html
+【思考】PHP——成也Web，败也Web	https://tech.meituan.com/2014/02/07/php-success-or-failure-web-dev-is-the-sole-cause.html
+YUI事件体系之Y.EventTarget	https://tech.meituan.com/2014/01/25/event-target.html
+YUI事件体系之Y.CustomEvent	https://tech.meituan.com/2014/01/24/event-custom.html
+YUI事件体系之Y.Do	https://tech.meituan.com/2014/01/23/event-do.html
+数据开放平台的配置管理	https://tech.meituan.com/2014/01/23/mt-confhub.html
+SegmentFault 美团云采访实录	https://tech.meituan.com/2014/01/13/meituan-cloud-interview-by-segmentfault.html
+基于Flume的美团日志收集系统(一)架构和设计	https://tech.meituan.com/2013/12/09/meituan-flume-log-system-architecture-and-design.html
+基于Flume的美团日志收集系统(二)改进和优化	https://tech.meituan.com/2013/12/09/meituan-flume-log-system-optimization.html
+美团数据仓库的演进	https://tech.meituan.com/2013/12/05/meituan-datawarehouse-evolution.html
+YUI3在美团的实践	https://tech.meituan.com/2013/12/04/yui3-practice.html

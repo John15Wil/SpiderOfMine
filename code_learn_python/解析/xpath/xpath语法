@@ -1,0 +1,23 @@
+# xpath基本语法： 
+1. 路径查询 
+    * //：查找所有子孙节点，不考虑层级关系 
+    * / ：找直接子节点 
+2.  谓词查询 
+    * //div[@id] 
+    * //div[@id="maincontent"] 
+3. 属性查询 
+    * //@class 
+4. 模糊查询 
+    * //div[contains(@id, "he")] 
+    * //div[starts‐with(@id, "he")] 
+5. 内容查询 
+    * //div/h1/text() 
+6. 逻辑运算 
+    * //div[@id="head" and @class="s_down"] 
+    * //title | //price
+    
+##注意
+1. 查询xpath路径  command+shift+x
+2. 如果页面是异步加载，缓存的图片地址和已加载的地址xpath不一致，需要注意
+
+    
